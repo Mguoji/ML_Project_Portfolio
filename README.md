@@ -1,5 +1,5 @@
 
-# ML & Operations Research Project Portfolio
+# ML & OR Project Portfolio
 
 This repository showcases a collection of machine learning and operations research projects spanning **optimization, simulation, computer vision, natural language processing, and decision-making models**.
 Projects are listed in **reverse chronological order (most recent → least recent)**.
