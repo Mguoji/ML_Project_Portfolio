@@ -100,6 +100,3 @@ Compared linear and non-linear regression techniques across multiple performance
 
 Implemented the **Cocke–Younger–Kasami (CYK) algorithm** for parsing context-free grammars, focusing on formal language theory and algorithmic correctness.
 
-
-Just tell me which one you want next 👌
-
