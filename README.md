@@ -5,6 +5,13 @@ This repository showcases a collection of machine learning and operations resear
 Projects are listed in **reverse chronological order (most recent → least recent)**.
 
 ---
+## **Reinforcement Learning Policy Gradient Lab**
+
+*Reinforcement Learning Policy Gradient Lab.ipynb*
+
+This project is trying to train a neural-network policy that learns, from trial and error, which actions to take in CartPole so as to maximize long-term reward by making good actions more likely over time.
+
+---
 
 ## **Columbia Evening Shuttle (Via) Simulation Project**
 
